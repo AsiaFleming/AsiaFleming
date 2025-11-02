@@ -3,8 +3,7 @@
 
 <h2> ☁️ AWS-Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Terraform-S3-Website](https://github.com/AsiaFleming/Terraform-S3-website)
   
 <h2> 💻  Projects: </h2>
 
