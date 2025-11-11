@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Asia!</h1>
- <b><span style="font-size:33px;"> AWS | Networking | Security | Automation </b>
+ <b><span style="font-size:33px;"> AWS | Security | Automation </b>
 
 <h2>💻 AWS-Projects:</h2>
 
