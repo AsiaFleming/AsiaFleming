@@ -3,8 +3,8 @@
 
 <h2>💻 AWS-Projects:</h2>
 
-- [Terraform-S3-Website](https://github.com/AsiaFleming/Terraform-S3-website)
-  
+- [terraform-s3-website](https://github.com/AsiaFleming/Terraform-S3-website)
+- [terraform-aws-codebuild-pipeline](https://github.com/AsiaFleming/terraform-aws-codebuild-pipeline)
 
 
 <h2> 🤳 Connect with me:</h2>
