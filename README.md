@@ -5,6 +5,7 @@
 
 - [terraform-s3-website](https://github.com/AsiaFleming/Terraform-S3-website)
 - [terraform-aws-codebuild-pipeline](https://github.com/AsiaFleming/terraform-aws-codebuild-pipeline)
+- [terraform-nessus-vulnerability-lab](https://github.com/AsiaFleming/terraform-nessus-vulnerability-lab)
 
 
 <h2> 🤳 Connect with me:</h2>
