@@ -2,7 +2,7 @@
 
 **Cloud Engineering | Security | Automation**
 ---
-Aspiring cloud and cybersecurity professional with hands-on experience securing, deploying, and managing infrastructure across cloud environments. Experienced in defensive cybersecurity, cloud computing, and networking with a strong foundation in security operations, infrastructure design, and automation.
+Aspiring cloud and cybersecurity professional with hands-on experience deploying, securing, and managing cloud infrastructure. Strong foundation in defensive security, networking, security operations, and automation.
 
 ## What I'm Working On
 - Building security-first cloud infrastructure using AWS, Terraform, and Infrastructure as Code
