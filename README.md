@@ -12,7 +12,7 @@ Aspiring cloud and cybersecurity professional with hands-on experience deploying
 
 <h2>💻 Projects:</h2>
 
-- [terraform-s3-website](https://github.com/AsiaFleming/Terraform-S3-website)
+- [secure-terraform-s3-website](https://github.com/AsiaFleming/secure-Terraform-S3-website)
 - [terraform-aws-codebuild-pipeline](https://github.com/AsiaFleming/terraform-aws-codebuild-pipeline)
 - [terraform-nessus-vulnerability-lab](https://github.com/AsiaFleming/terraform-nessus-vulnerability-lab)
 
