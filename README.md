@@ -2,16 +2,17 @@
 
 **Cloud Engineering | Security | Automation**
 ---
-Aspiring cloud and cybersecurity professional with hands-on experience deploying, securing, and managing cloud infrastructure. Strong foundation in defensive security, networking, security operations, and automation.
+Aspiring IT and cloud professional with hands-on experience building Windows Server, Active Directory, AWS, and infrastructure automation projects. Passionate about systems administration, networking, cloud technologies, and security while continuously expanding practical enterprise IT skills.
 
 ## What I'm Working On
-- Building security-first cloud infrastructure using AWS, Terraform, and Infrastructure as Code
-- Automating infrastructure provisioning, configuration, and updates to support repeatable, production-style deployments
-- Strengthening defensive security skills through hands-on labs, monitoring, and vulnerability assessment
-- Preparing for Security+ and advanced cloud certifications through practical implementation
+- Building a Windows Server 2022 Active Directory home lab in VMware
+- Strengthening Windows Server, Active Directory, DNS, and PowerShell skills
+- Expanding AWS and Infrastructure as Code (Terraform) projects
+- Preparing for Network+ and advanced cloud certifications
 
 <h2>💻 Projects:</h2>
 
+- [Windows Server 2022 Active Directory Home Lab](https://github.com/AsiaFleming/windows-server-2022-active-directory-home-lab) (In progress)
 - [secure-terraform-s3-website](https://github.com/AsiaFleming/secure-terraform-S3-website)
 - [terraform-aws-codebuild-pipeline](https://github.com/AsiaFleming/terraform-aws-codebuild-pipeline)
 - [terraform-nessus-vulnerability-lab](https://github.com/AsiaFleming/terraform-nessus-vulnerability-lab)
