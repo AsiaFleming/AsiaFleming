@@ -12,7 +12,7 @@ Aspiring IT and cloud professional with hands-on experience building Windows Ser
 
 <h2>💻 Projects:</h2>
 
-- [Windows Server 2022 Active Directory Home Lab](https://github.com/AsiaFleming/windows-server-2022-active-directory-home-lab) (In progress)
+- [windows-server-2022-active-directory-home-lab](https://github.com/AsiaFleming/windows-server-2022-active-directory-home-lab) (In progress)
 - [secure-terraform-s3-website](https://github.com/AsiaFleming/secure-terraform-S3-website)
 - [terraform-aws-codebuild-pipeline](https://github.com/AsiaFleming/terraform-aws-codebuild-pipeline)
 - [terraform-nessus-vulnerability-lab](https://github.com/AsiaFleming/terraform-nessus-vulnerability-lab)
