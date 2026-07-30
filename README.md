@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Asia!</h1>
 
-**Cloud Engineering | Security | Automation**
+**IT Infrastructure | Cloud | Security**
 ---
 Aspiring IT and cloud professional with hands-on experience building Windows Server, Active Directory, AWS, and infrastructure automation projects. Passionate about systems administration, networking, cloud technologies, and security while continuously expanding practical enterprise IT skills.
 
