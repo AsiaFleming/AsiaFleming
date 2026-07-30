@@ -19,4 +19,4 @@ Aspiring IT and cloud professional with hands-on experience building Windows Ser
 
 ## Tech Stack
 
-Python · Bash · AWS · Linux · Terraform · IAM · CloudWatch · CloudTrail · Wireshark · Nmap
+Python · Bash · Powershell • DNS •  AWS · Linux · Terraform · IAM · CloudWatch · CloudTrail · Wireshark · Nmap
