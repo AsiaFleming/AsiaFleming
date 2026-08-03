@@ -2,7 +2,7 @@
 
 **IT Infrastructure | Systems Administration | Cloud**
 ---
-Aspiring IT and cloud professional with hands-on experience building Windows Server, Active Directory, AWS, and infrastructure automation projects. Passionate about systems administration, networking, cloud technologies, and security while continuously expanding practical enterprise IT skills.
+Aspiring IT Infrastructure and Cloud professional with hands-on experience building Windows Server environments, Active Directory, AWS, and Infrastructure as Code (Terraform) projects. Passionate about systems administration, networking, automation, and cybersecurity while continuously expanding practical enterprise IT skills.
 
 ## What I'm Working On
 - Expanding my Windows Server 2022 Active Directory home lab
